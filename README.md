@@ -7,3 +7,4 @@
 ## [Chapter 2. 아키텍처 개요](./chap02.%20아키텍처%20개요/README.md)
 ## [Chapter 3. 애그리거트](./chap03.애그리거트/README.md)
 ## [Chapter 4. 리포지토리와 모델 구현](./chap04.리포지토리와%20모델%20구현/README.md)
+## [Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능](./chap05.%20스프링%20데이터%20JPA를%20이용한%20조회%20기능/README.md)
