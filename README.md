@@ -8,3 +8,4 @@
 ## [Chapter 3. 애그리거트](./chap03.애그리거트/README.md)
 ## [Chapter 4. 리포지토리와 모델 구현](./chap04.리포지토리와%20모델%20구현/README.md)
 ## [Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능](./chap05.%20스프링%20데이터%20JPA를%20이용한%20조회%20기능/README.md)
+## [Chapter 6. 응용 서비스와 표현 영역](./chap06.%20응용%20서비스와%20표현%20영역/README.md)
