@@ -13,3 +13,4 @@
 ## [Chapter 8. 애그리거트 트랜잭션 관리](./chap08.%20애그리거트%20트랜잭션%20관리/README.md)
 ## [Chapter 9. 도메인 모델과 바운디드 컨텍스트](./chap09.%20도메인%20모델과%20바운디드%20컨텍스트/README.md)
 ## [Chapter 10. 이벤트](./chap10.%20이벤트/README.md)
+## [Chapter 11. CQRS](./chap11.%20CQRS/README.md)
